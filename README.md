@@ -32,6 +32,7 @@ This project creates an **end-to-end cloud pipeline** that:
 ---
 
 ## 🧱 Architecture
+![Architecture_diagram](https://github.com/user-attachments/assets/1c794940-9b1b-45b3-be60-9accc165e2d7)
 
 ---
 
