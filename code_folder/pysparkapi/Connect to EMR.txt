@@ -1,0 +1,1 @@
+ssh -i <pem-file> hadoop@<primary-node-public-DNS>.compute-1.amazonaws.com
