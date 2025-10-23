@@ -1,5 +1,18 @@
 # Real-Time Financial Data Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PySpark](https://img.shields.io/badge/Framework-PySpark-orange)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900)
+![S3](https://img.shields.io/badge/Service-AWS%20S3-yellow)
+![EC2](https://img.shields.io/badge/Service-AWS%20EC2-lightgrey)
+![EMR](https://img.shields.io/badge/Service-AWS%20EMR-green)
+![Glue](https://img.shields.io/badge/Service-AWS%20Glue-8C4FFF)
+![Athena](https://img.shields.io/badge/Service-AWS%20Athena-232F3E)
+![SQL](https://img.shields.io/badge/Language-SQL-blueviolet)
+![API](https://img.shields.io/badge/API-OpenExchangeRates-lightblue)
+![ETL](https://img.shields.io/badge/Process-ETL%20Pipeline-brightgreen)
+
 ### 📌 Overview
 This project automates the normalization of raw **bank transaction data** into a single base currency (SGD) using **AWS Cloud Services** and **PySpark**.  
 It integrates **real-time exchange rate APIs** with transactional data to produce standardized, analytics-ready outputs in **S3**, enabling business teams to make accurate credit and lending decisions.
